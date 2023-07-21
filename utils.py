@@ -81,4 +81,5 @@ class ner_extraction:
           if split_text[i].lower()==entity_list[j][0]:
             split_text[i]=entity_list[j]
 
-    return tuple(split_text)
+    # return tuple(split_text)
+    return split_text
