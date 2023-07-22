@@ -1,5 +1,3 @@
-# NER with Fine Tunned BERT model
-
 title: BERT NER
 emoji: 🦀
 colorFrom: gray
