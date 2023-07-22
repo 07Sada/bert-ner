@@ -14,3 +14,6 @@ pinned: false
 ## What is NER ?
 Named Entity Recognition (NER) is a task in natural language processing (NLP) that involves identifying and classifying named entities in text. Named entities are words or phrases that refer to specific objects or concepts, such as people, organizations, locations, and dates.
 
+## What is BERT ?
+![BERT Architecture](https://vaclavkosar.com/images/electra-bert.png)
+
